@@ -1,1 +1,7 @@
 .env
+prompt_response.txt
+myvenv
+__pycache__
+.vscode
+/gpt3_logs/*
+/nexus/*
