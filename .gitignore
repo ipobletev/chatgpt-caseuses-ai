@@ -3,5 +3,6 @@ prompt_response.txt
 myvenv
 __pycache__
 .vscode
-/gpt3_logs/*
-/nexus/*
+chatgpt_3.5_infinitememory/gpt3_logs/*
+chatgpt_3.5_infinitememory/nexus/*
+!.gitkeep
